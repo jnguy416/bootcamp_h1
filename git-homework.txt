@@ -4,3 +4,5 @@ git add <file> only adds the specified file.
 git add . will add every modified or new file in the current directory to the staging area. 
 git add -A will add every modified, new or deleted files from the entire directory to the staging area. 
 
+git fetch updates the remote branches
+git pull will update the remote branches too whilst updating the local branch with its remote versions
